@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://portfolio-samuele.vercel.app"><img src="https://img.shields.io/badge/Portfolio-c4f542?style=for-the-badge&logo=vercel&logoColor=0a0a0b" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/samuele-scavello-2b0031284/"><img src="https://img.shields.io/badge/LinkedIn-111114?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/samuelescavello/"><img src="https://img.shields.io/badge/LinkedIn-111114?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:scavellosamuele23@gmail.com"><img src="https://img.shields.io/badge/Email-111114?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
