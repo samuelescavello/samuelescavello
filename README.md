@@ -23,10 +23,8 @@ Il gestionale AI per le agenzie immobiliari italiane, a partire da Milano. Nasce
 Uso l'AI su due fronti: dentro i prodotti che costruiamo e per automatizzare il lavoro ripetitivo.
 
 - **Modelli linguistici (LLM) nei prodotti**: testi, riepiloghi e suggerimenti generati dove servono, a partire dai dati reali.
-- **Automazioni con AI**: dagli annunci immobiliari scritti in automatico ai flussi su email e WhatsApp, fino ai processi che girano da soli ogni giorno.
+- **Automazioni AI**: automazione dei processi ripetitivi, per togliere lavoro manuale ai team.
 - **Agenti AI** che eseguono compiti in più passaggi: raccolgono dati, li elaborano e restituiscono un risultato pronto da usare.
-
-l'AI è uno strumento che conosciamo a fondo, non un sostituto dello sviluppo.
 
 <br />
 
