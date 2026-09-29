@@ -24,7 +24,7 @@ Formazione full-stack: HTML/CSS, JavaScript, Vue, PHP/Laravel, MySQL.
 
 ### Come lavoro
 
-- Sviluppiamo ogni giorno con agenti AI (Claude Code) nel terminale.
+- Scriviamo noi il codice, dall'architettura al rilascio. L'AI è uno degli strumenti che usiamo, non un sostituto dello sviluppo.
 - Il codice di produzione vive in repository privati. Qui trovi chi sono e cosa facciamo, non il codice delle aziende o dei clienti.
 
 ### Contatti
