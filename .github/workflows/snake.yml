@@ -22,7 +22,8 @@ jobs:
 
       - name: Pubblica sul ramo output
         run: |
-          cd dist
+          # dist/ è creata dal container come root: copio i file in una cartella mia
+          mkdir -p ../out && cp dist/*.svg ../out/ && cd ../out
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
