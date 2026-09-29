@@ -10,60 +10,31 @@
 
 <br />
 
-### Cosa stiamo costruendo
+### AgenzAI
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/agenzai.webp" alt="AgenzAI" width="100%" />
-      <br /><b>AgenzAI</b> · <i>in sviluppo</i><br />
-      <sub>Il gestionale AI per le agenzie immobiliari italiane, a partire da Milano. Nasce da quello che abbiamo imparato costruendo il CRM del gruppo.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/crm.webp" alt="CRM del gruppo" width="100%" />
-      <br /><b>CRM del gruppo</b> · <i>uso interno</i><br />
-      <sub>Lead e immobili, cantieri, chat interna in tempo reale, WhatsApp integrato, ticket e business plan con valutazioni su 70 zone di Milano.</sub>
-    </td>
-  </tr>
-</table>
+<img src="./assets/agenzai.webp" alt="AgenzAI" width="100%" />
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <a href="https://www.capinvestment.it"><img src="./assets/capital-investment.webp" alt="Capital Investment" width="100%" /></a>
-      <br /><a href="https://www.capinvestment.it"><b>Capital Investment</b></a><br />
-      <sub>Investimenti immobiliari a Milano</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.ristrutturazionipro.it"><img src="./assets/ristrutturazionipro.webp" alt="Ristrutturazioni Pro" width="100%" /></a>
-      <br /><a href="https://www.ristrutturazionipro.it"><b>Ristrutturazioni Pro</b></a><br />
-      <sub>Ristrutturazioni chiavi in mano, Milano e Monza</sub>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://www.casa-sumisura.it"><img src="./assets/casasumisura.webp" alt="CasaSuMisura" width="100%" /></a>
-      <br /><a href="https://www.casa-sumisura.it"><b>CasaSuMisura</b></a><br />
-      <sub>Case trovate, progettate e consegnate chiavi in mano</sub>
-    </td>
-  </tr>
-</table>
+Il gestionale AI per le agenzie immobiliari italiane, a partire da Milano. Nasce da quello che abbiamo imparato costruendo e usando ogni giorno il CRM interno del gruppo: ora lo portiamo a tutte le agenzie, con l'intelligenza artificiale al centro. **In sviluppo.**
+
+<br />
+
+### AI e automazioni
+
+Uso l'AI su due fronti: dentro i prodotti che costruiamo e per automatizzare il lavoro ripetitivo.
+
+- **Modelli linguistici (LLM) nei prodotti**: testi, riepiloghi e suggerimenti generati dove servono, a partire dai dati reali.
+- **Automazioni con AI**: dagli annunci immobiliari scritti in automatico ai flussi su email e WhatsApp, fino ai processi che girano da soli ogni giorno.
+- **Agenti AI** che eseguono compiti in più passaggi: raccolgono dati, li elaborano e restituiscono un risultato pronto da usare.
+
+Scriviamo noi il codice, dall'architettura al rilascio: l'AI è uno strumento che conosciamo a fondo, non un sostituto dello sviluppo.
 
 <br />
 
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,supabase,postgres,vercel,nodejs,git,github,html,css,vue,php,laravel&theme=dark&perline=16" alt="React, TypeScript, JavaScript, Next.js, Vite, Supabase, PostgreSQL, Vercel, Node.js, Git, GitHub, HTML, CSS, Vue, PHP, Laravel" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vite,supabase,postgres,vercel,nodejs,git,github&theme=dark" alt="React, TypeScript, JavaScript, Next.js, Vite, Supabase, PostgreSQL, Vercel, Node.js, Git, GitHub" />
 </p>
-
-<br />
-
-### Dal campo alla produzione
-
-<p align="center">
-  <img src="./assets/workflow.svg" alt="Come lavoriamo: ascolto, priorità, sviluppo, revisione, rilascio in produzione" width="100%" />
-</p>
-
-Scriviamo noi il codice, dall'architettura al rilascio. L'AI è uno degli strumenti che usiamo, non un sostituto dello sviluppo. Il codice di produzione vive in repository privati: qui trovi chi sono e cosa facciamo, non il codice delle aziende.
 
 <br />
 
