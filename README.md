@@ -26,7 +26,7 @@ Uso l'AI su due fronti: dentro i prodotti che costruiamo e per automatizzare il 
 - **Automazioni con AI**: dagli annunci immobiliari scritti in automatico ai flussi su email e WhatsApp, fino ai processi che girano da soli ogni giorno.
 - **Agenti AI** che eseguono compiti in più passaggi: raccolgono dati, li elaborano e restituiscono un risultato pronto da usare.
 
-Scriviamo noi il codice, dall'architettura al rilascio: l'AI è uno strumento che conosciamo a fondo, non un sostituto dello sviluppo.
+l'AI è uno strumento che conosciamo a fondo, non un sostituto dello sviluppo.
 
 <br />
 
